@@ -1,0 +1,87 @@
+Factorisation LU de :
+2	
+Matrix L :
+1	
+Matrix U :
+2	
+Vérification M1 - L*U = 0 : yes
+Factorisation LU de :
+2	1	
+2	3	
+Matrix L :
+1	0	
+1	1	
+Matrix U :
+2	1	
+0	2	
+Vérification M1 - L*U = 0 : yes
+Factorisation LU de :
+2	1	2	
+3	4	4	
+3	3	0	
+Matrix L :
+1	0	0	
+1.5	1	0	
+1.5	0.6	1	
+Matrix U :
+2	1	2	
+0	2.5	1	
+0	0	-3.6	
+Vérification M1 - L*U = 0 : yes
+Factorisation LU de :
+2	1	2	3	
+4	4	3	3	
+0	5	1	2	
+1	0	5	8	
+Matrix L :
+1	0	0	0	
+2	1	0	0	
+0	2.5	1	0	
+0.5	-0.25	1.07143	1	
+Matrix U :
+2	1	2	3	
+0	2	-1	-3	
+0	0	3.5	9.5	
+0	0	0	-4.42857	
+Vérification M1 - L*U = 0 : yes
+Factorisation LU de :
+2	1	2	3	4	
+4	3	3	0	5	
+1	2	1	0	5	
+8	5	1	6	1	
+8	10	1	2	0	
+Matrix L :
+1	0	0	0	0	
+2	1	0	0	0	
+0.5	1.5	1	0	0	
+4	1	-4	1	0	
+4	6	-0.666667	1.03333	1	
+Matrix U :
+2	1	2	3	4	
+0	1	-1	-6	-3	
+0	0	1.5	7.5	7.5	
+0	0	0	30	18	
+0	0	0	0	-11.6	
+Vérification M1 - L*U = 0 : yes
+Factorisation LU de :
+2	1	2	3	4	4	
+3	3	0	5	1	2	
+1	0	5	8	5	1	
+6	1	8	10	1	2	
+0	16	12	5	13	16	
+2	8	10	7	3	25	
+Matrix L :
+1	0	0	0	0	0	
+1.5	1	0	0	0	0	
+0.5	-0.333333	1	0	0	0	
+3	-1.33333	-0.666667	1	0	0	
+0	10.6667	14.6667	-16.0545	1	0	
+1	4.66667	7.33333	-7.72727	0.526058	1	
+Matrix U :
+2	1	2	3	4	4	
+0	1.5	-3	0.5	-5	-4	
+0	0	3	6.66667	1.33333	-2.33333	
+0	0	0	6.11111	-16.7778	-16.8889	
+0	0	0	0	-222.582	-178.255	
+0	0	0	0	0	20.0449	
+Vérification M1 - L*U = 0 : yes
